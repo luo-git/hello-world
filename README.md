@@ -10,7 +10,7 @@ This is **bold**.
 
 This is *italic*.
 
-This is a link to [google](www.google.com).
+This is a link to [google](https://www.google.com).
 
 This is a list.
 
@@ -19,10 +19,10 @@ This is a list.
 3. ghi
 
 This is another list.
--hihi
-  -hihihi
-  -hihihi
--hihi
+- hihi
+  - hihihi
+  - hihihi
+- hihi
 
 This is an image.
 
@@ -35,15 +35,15 @@ This is an image.
 > Quote: Hihihihi
 > - me
 
-Here are some code: 'System.out.println("code")'
+Here are some code: `System.out.println("code")`
 
 Here are some more code:
 
-'''java
+```java
 if (code) {
   return "more code";
 }
-'''
+```
 
 
     
